@@ -1,0 +1,3 @@
+#!/usr/bin/python3
+str = "The Zen of Python, by Tim Peters"
+print("\"{}\"{}".format(str[:18], str[18:]))
